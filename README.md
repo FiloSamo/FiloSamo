@@ -9,6 +9,3 @@ Always exploring new projects and sharing my work here on GitHub!
 - **Robotics:** ROS2 Humble, Gazebo, MoveIt  
 - **Control & Simulation:** State-space modeling, PD/PID tuning, nonlinear control  
 - **Other Tools:** Git, Linux, Docker, LaTeX  
-
-> 💡 *Give a look to my projects — feedback and collaborations are always welcome!*
-
